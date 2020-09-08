@@ -1,2 +1,2 @@
 # codeforces
-notes and solutions of codeforces online judge
+Notes and solutions of attempted questions in codeforces rounds
